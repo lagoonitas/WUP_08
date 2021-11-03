@@ -23,6 +23,7 @@ bears <- read.csv(file="BEARS.csv",header = TRUE)
 
 ## Model LENGTH ~ NECK  
 
+
 ```{r}
 simp <- lm(LENGTH~NECK,data=bears)
 plot(LENGTH~NECK,data=bears)
