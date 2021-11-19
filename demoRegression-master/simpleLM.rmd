@@ -75,7 +75,7 @@ cor(bears$LENGTH,bears$CHEST)
  
 ## conclusion 
 
-CHEST had an adjusted r Squared score of 0.7869 while NECK had an adjust r Squared score of 0.7476.
+CHEST has an adjusted r Squared score of 0.7869 while NECK had an adjust r Squared score of 0.7476.
 
 
-Chest is a better predictor of Length than neck is because the adjusted R squared of the fit for CHEST was larger than the adjusted R squared  of the fit for NECK.
+Chest is a better predictor of length than neck is because the adjusted R squared of the fit for CHEST was larger than the adjusted R squared  of the fit for NECK.
